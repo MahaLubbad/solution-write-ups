@@ -16,13 +16,13 @@
 <!--
   describe the parameter
 -->
-Any number that passed to the function  
+Any positive number that passed to the function.  
 ### Return Value: `number`
 
 <!--
   describe the return value
 -->
-The sum of all numbers start from 1 up to the number passed 
+The sum of all numbers start from 1 up to the number passed. 
 ## Test Cases
 
 <!--
